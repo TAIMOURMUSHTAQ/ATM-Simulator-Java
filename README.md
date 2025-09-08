@@ -67,3 +67,8 @@ To make this ATM simulator more realistic and advanced, the following enhancemen
 🌍 Networking Support – Simulate bank server interactions for deposits/withdrawals.
 📱 Mobile-Friendly Version – Extend logic for Android app using Java/Kotlin.
 
+📧 **Author**
+Taimour Mushtaq
+🎓 BSCS Student at Federal Urdu University of Arts,Science and Technology, Islamabad Pakistan
+🔗 https://www.linkedin.com/in/taimourmushtaq/ || https://github.com/TAIMOURMUSHTAQ
+
